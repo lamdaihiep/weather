@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "weather",
+    "slug": "weather",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.weather"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "99106e3f-66f1-4509-831d-e59c036c3639"
+      }
+    }
+  },
+  "name": "my-project"
+}
